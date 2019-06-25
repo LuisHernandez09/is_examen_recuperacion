@@ -1,6 +1,5 @@
-# Examen Final de Ingeniería de Software
+# Examen Recuperacion de Ingeniería de Software
 
-Problemas para examen final del curso de Ingenieria de Software.
 
 ## Módulos Incluidos
 
